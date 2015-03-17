@@ -1,18 +1,15 @@
 Welcome to the Izenda Wiki
 
-<div style="text-align:center">
-Izenda Overview | Install/<br>Maintenance
-:--:|:---:
-![](/Home/Overview_Globe.png)|![](/Home/Install_Download.png)
-test | test
 
-Best Practices | Customization
-:--:|:---:
-![](/Home/BestPractices_Trophy.png)|![](/Home/Customization_Wrench.png)
-test | test
+Izenda Overview | Install/<br>Maintenance | Best Practices 
+:--:|:---:|:---:
+![](/Home/Overview_Globe.png)|![](/Home/Install_Download.png)|![](/Home/BestPractices_Trophy.png)
+test | test| test
 
-Code Reference | FAQ
-:--:|:---:
-![](/Home/CodeRef_Terminal.png)|![](/Home/FAQ_QuestionMark.png)
-test | test
-</div>
+
+
+Customization | Code Reference | FAQ
+:---:|:--:|:---:
+![](/Home/Customization_Wrench.png)|![](/Home/CodeRef_Terminal.png)|![](/Home/FAQ_QuestionMark.png)
+test|test | test
+
