@@ -1,12 +1,13 @@
 Welcome to the Izenda Wiki
 
+<br>
 
 Izenda Overview | Install/<br>Maintenance | Best Practices 
 :--:|:---:|:---:
 ![](/Home/Overview_Globe.png)|![](/Home/Install_Download.png)|![](/Home/BestPractices_Trophy.png)
 test | test| test
 
-
+<br>
 
 Customization | Code Reference | FAQ
 :---:|:--:|:---:
