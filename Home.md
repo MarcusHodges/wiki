@@ -1,6 +1,6 @@
 Welcome to the Izenda Wiki
 
-
+<div style="text-align:center">
 Izenda Overview | Install/<br>Maintenance
 :--:|:---:
 ![](/Home/Overview_Globe.png)|![](/Home/Install_Download.png)
@@ -15,3 +15,4 @@ Code Reference | FAQ
 :--:|:---:
 ![](/Home/CodeRef_Terminal.png)|![](/Home/FAQ_QuestionMark.png)
 test | test
+</div>
