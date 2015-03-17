@@ -5,12 +5,12 @@ Welcome to the Izenda Wiki
 Izenda Overview | Install/<br>Maintenance | Best Practices 
 :--:|:---:|:---:
 ![](/Home/Overview_Globe.png)|![](/Home/Install_Download.png)|![](/Home/BestPractices_Trophy.png)
-test | test| test
+Introduction to the Izenda product|Instructions on installing and updating Izenda|Recommended strategies from the Izenda team
 
 <br>
 
 Customization | Code Reference | FAQ
 :---:|:--:|:---:
 ![](/Home/Customization_Wrench.png)|![](/Home/CodeRef_Terminal.png)|![](/Home/FAQ_QuestionMark.png)
-test|test | test
+Altering Izenda to meet your company's needs|Technical documentation on Izenda's features, methods, and variables|Frequently asked questions from developers and end users
 
