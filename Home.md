@@ -1,9 +1,9 @@
 Welcome to the Izenda Wiki
 
 
-Izenda Overview | Install/Maintenance
+Izenda Overview | Install/</br>Maintenance
 :--:|:---:
-![](/Home/Overview_Izenda.png)|![](/Home/Install_Download.png)
+![](/Home/Overview_Globe.png)|![](/Home/Install_Download.png)
 test | test
 
 Best Practices | Customization
