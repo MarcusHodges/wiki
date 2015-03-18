@@ -7,7 +7,7 @@ This wiki serves as the main source of documentation for development teams worki
 Izenda Overview | Install/<br>Maintenance | Best Practices 
 :--:|:---:|:---:
 ![](/Home/Overview_Globe.png)|![](/Home/Install_Download.png)|![](/Home/BestPractices_Trophy.png)
-Introduction to the Izenda product <br> cel part2|Instructions on installing and updating Izenda|Recommended strategies from the Izenda team
+Introduction to the Izenda product|Instructions on installing and updating Izenda|Recommended strategies from the Izenda team
 
 <br>
 
