@@ -16,3 +16,8 @@ Customization | Code Reference | FAQ
 ![](/Home/Customization_Wrench.png)|![](/Home/CodeRef_Terminal.png)|![](/Home/FAQ_QuestionMark.png)
 Altering Izenda to meet your company's needs|Technical documentation on Izenda's features, methods, and variables|Frequently asked questions from developers and end users
 
+Header|Header2
+---|---
+Test|Text
+
+
